@@ -3,13 +3,13 @@
 # Please adapt and uncomment the following lines:
 	name = jjkennedy3
 	email = jjkennedy3@github.com
-	signingkey = FD78F1EFB0C57145
+#	signingkey = 
 
 [gpg]
 	program = /usr/local/bin/gpg
 
 [commit]
-	gpgsign = true
+	gpgsign = false
 [core]
 	excludesfile = /Users/tom/.gitignore
 	autocrlf = input
